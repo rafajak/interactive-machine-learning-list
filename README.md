@@ -47,7 +47,7 @@ Main layout and styling developed by [Jakub Fogel](https://github.com/fogelkuba)
 
 ## TO DO
 
-(You are invited to constribute)
+(You are invited to contribute)
 
 * Descriptions of sites
 * Write-up in a different way
